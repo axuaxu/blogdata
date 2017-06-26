@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://52.70.148.102/sitemap.xml
+Disallow: /ghost/
